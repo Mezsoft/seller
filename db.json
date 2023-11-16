@@ -1,0 +1,30 @@
+{ "vendedor":[
+ {
+  "ID_VENDEDOR": 94428342,
+  "NOMBRE": "PEDRO",
+  "APELLIDO": "PALOTES",
+  "AÑO": 2023,
+  "MES": 1,
+  "CUOTA": 150000000,
+  "VENTAS": 6500000
+ },
+ {
+  "ID_VENDEDOR": 94428343,
+  "NOMBRE": "ANDRES",
+  "APELLIDO": "TASCON",
+  "AÑO": 2023,
+  "MES": 2,
+  "CUOTA": 300000000,
+  "VENTAS": 7500000
+ },
+ {
+  "ID_VENDEDOR": 94428344,
+  "NOMBRE": "LUIS EDUARDO",
+  "APELLIDO": "LOPEZ",
+  "AÑO": 2023,
+  "MES": 3,
+  "CUOTA": 100000000,
+  "VENTAS": 8500000
+ }
+]
+}
